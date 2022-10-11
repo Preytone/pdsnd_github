@@ -190,4 +190,6 @@ print('The most common year of birth is:',common_age)
 
 
 
+# The most common age is 1989
 
+# the oldest year of birth is 1885
