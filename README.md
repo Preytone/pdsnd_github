@@ -41,3 +41,4 @@ washington.csv
 ### Credits
 Udacity notes
 
+Bikeshare project is an analysis of three cities that is newyork, chicago and washington
